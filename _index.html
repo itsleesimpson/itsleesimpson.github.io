@@ -3,6 +3,30 @@ layout: default
 title: Home
 ---
 
+<article class="page">
+  <h2>About</h2>
+  This is a test
+</article>
+
+<article class="page">
+  <h2>Writting</h2>
+  <ul>
+    <li><a href="http://www.twitter.com/itsleesimpson">Twitter</a> <i class="fa fa-external-link"></i></li>
+    <li><a href="https://www.linkedin.com/in/leesimpson">LinkedIn</a></li>
+    <li><a href="http://www.instagram.com/itsleesimpson">Instagram</a></li>
+  </ul>
+</article>
+
+<article class="page">
+  <h2>Links</h2>
+  <ul>
+    <li><a href="http://www.twitter.com/itsleesimpson">Twitter</a></li>
+    <li><a href="https://www.linkedin.com/in/leesimpson">LinkedIn</a></li>
+    <li><a href="http://www.instagram.com/itsleesimpson">Instagram</a></li>
+  </ul>
+</article>
+
+<!--
 <div class="posts">
   {% for post in paginator.posts %}
   <article class="post">
@@ -14,7 +38,6 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.content }}
   </article>
   {% endfor %}
 </div>
@@ -31,3 +54,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->
