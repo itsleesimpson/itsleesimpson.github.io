@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Lee Simpson
 tagline:             Product Designer
-url:                 http://getpoole.com
+url:                 http://www.itsleesimpson.com
 paginate:            5
-baseurl:             ""
+baseurl:
 
 # Assets
 #
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://itsleesimpson.github.io
 
 # Gems
 gems:
