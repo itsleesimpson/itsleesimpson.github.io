@@ -15,6 +15,8 @@ I've spent the last 13 years of my life building awesome products, with smart pe
 
 Google, Comcast, The Guardian, NBC, American Express, Channel 4, ITV, EE, TalkTalk, Yota, NHS, Johnson Controls, BBC, Virgin Casino, Low Cost Holidays, Macmillan Cancer Support, Huck Magazine, Givey, Blooie, Yes! Nurse, Love Your Larder
 
+[View Selected Projects →](/projects)
+
 ***
 
 # Speaking
@@ -25,4 +27,4 @@ Dallas Society of Visual Communications, HyperIsland, The Guardian, Newcastle Ci
 
 # Contact
 
-I'm currently happily employed, but if y [please get in touch](mailto:lee@itsleesimpson.com). Follow me on [twitter](http://www.twitter.com/itsleesimpson), [Instagram](http://www.instagram.com/itsleesimpson) and [Medium](https://medium.com/@itsleesimpson).
+I'm currently happily employed, but otherwise [feel free to get in touch](mailto:lee@itsleesimpson.com). You can follow me on [twitter](http://www.twitter.com/itsleesimpson), [Instagram](http://www.instagram.com/itsleesimpson) and [Medium](https://medium.com/@itsleesimpson). Yeah?
