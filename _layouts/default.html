@@ -17,9 +17,25 @@
         {{ content }}
       </main>
 
+      <!--<div class="newsletter">
+        <div id="revue-embed">
+
+          <h1>Newsletter</h1>
+          <p>Each Sunday I send an email with my favourite design and product articles from the week. Give it a try.</p>
+          <form action="https://www.getrevue.co/profile/itsleesimpson/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
+            <div class="revue-form-group">
+              <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
+            </div>
+            <div class="revue-form-actions">
+              <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
+            </div>
+          </form>
+        </div>
+      </div>-->
+
       <footer class="footer">
         <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. v0.5
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. Built in record time. Powered by Jekyll, hosted on Github.
         </small>
       </footer>
     </div>

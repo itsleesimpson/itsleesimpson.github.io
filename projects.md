@@ -20,9 +20,8 @@ Over the course of 3 months I lead a small team looking at interaction design fo
 ## Comcast, Watchable, 2015
 
 Over the space of 10 months a team at ustwo worked in collaboration with Comcast to design and develop Watchable, a short form video platform for iOS, web and TV. As product lead I helped establish the core concept and cross platform strategy.
-Watchable
 
-1. [‘Comcast Launches Watchable: Can Web Video Help Save Cable TV?’]() _by_ Todd Spangler, Variety  
+1. [‘Comcast Launches Watchable: Can Web Video Help Save Cable TV?’](http://variety.com/2015/digital/news/comcast-watchable-launch-1201604855/) _by_ Todd Spangler, Variety  
 
 </div>
 
@@ -91,3 +90,5 @@ As part of the founding team I lead user experience and user interface design fo
 2. [‘Givey Secures Cash For Free Charity Giving Model’](http://techcrunch.com/2014/07/16/givey-secures-cash-for-free-charity-giving-model-to-compete-with-justgiving/) _by_ Mike Butcher, TechCrunch
 
 </div>
+
+[← Home](/)
