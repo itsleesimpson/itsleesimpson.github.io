@@ -12,7 +12,7 @@ I've spent the last 13 years of my life building awesome products, with smart pe
 
 Google, Comcast, The Guardian, NBC, American Express, Channel 4, ITV, EE, TalkTalk, Yota, NHS, Johnson Controls, BBC, Virgin Casino, Low Cost Holidays, Macmillan Cancer Support, Huck Magazine, Givey, Blooie, Yes! Nurse, Love Your Larder
 
-[View Selected Projects →](/projects)
+[View selected projects →](/projects)
 
 ***
 

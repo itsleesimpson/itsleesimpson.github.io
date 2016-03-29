@@ -91,4 +91,4 @@ As part of the founding team I lead user experience and user interface design fo
 
 </div>
 
-[← Home](/)
+[← Return home](/)
