@@ -2,9 +2,13 @@
 layout: page
 ---
 
-My name is Lee Simpson I am a product strategist and designer at [ustwo](http://www.ustwo.com), New York.
+_Hello._ My name is Lee Simpson.
 
-I've spent the last 13 years of my life building awesome products, with smart people. I've had the pleasure of working with the likes of Comcast, American Express, The Guardian and Google on projects that cover finance, educational VR, broadcasting and publishing. I am a startup advisor, lecturer and conference speaker — oh, and sometimes I write.
+I'm a lead product designer and strategist at [ustwo](http://www.ustwo.com), New York.
+
+For the past 13 years I’ve worked with teams to bring awesome digital products and services to market. Some of the projects I've worked on include finance, educational VR, video content and publishing for companies like Comcast, American Express, The Guardian and BBC. I'm also an early stage startup advisor on [Ignite100](http://ignite100.com).
+
+I specialize in user centered design, rapid concept validation and product thinking.
 
 ***
 
@@ -18,4 +22,4 @@ Google, Comcast, The Guardian, NBC, American Museum of Natural History, American
 
 # Contact
 
-I'm currently happily employed, but otherwise [feel free to get in touch](mailto:lee@itsleesimpson.com). You can follow me on [twitter](http://www.twitter.com/itsleesimpson), [Instagram](http://www.instagram.com/itsleesimpson) and [Medium](https://medium.com/@itsleesimpson). Yeah?
+I'm currently happily employed, but otherwise [feel free to get in touch](mailto:lee@itsleesimpson.com). You can follow me on [twitter](http://www.twitter.com/itsleesimpson), [Instagram](http://www.instagram.com/itsleesimpson) and [Medium](https://medium.com/@itsleesimpson).

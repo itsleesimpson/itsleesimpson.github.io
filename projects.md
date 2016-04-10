@@ -12,6 +12,7 @@ Over the course of 3 months I lead a small team looking at interaction design fo
 
 1. [‘The State of Television’](http://ustwo.com/blog/the-future-of-tv-episode-i-the-state-of-television) _by_ Lee Simpson, ustwo
 2. [‘Old Tech, New Tricks’](http://ustwo.com/blog/the-future-of-tv-episode-ii-old-tech-new-tricks) _by_ Lee Simpson, ustwo
+3. ['A New Purpose’](https://ustwo.com/blog/the-future-of-tv-episode-iii-a-new-purpose) _by_ Lee Simpson, ustwo
 
 </div>
 
@@ -90,5 +91,16 @@ As part of the founding team I lead user experience and user interface design fo
 2. [‘Givey Secures Cash For Free Charity Giving Model’](http://techcrunch.com/2014/07/16/givey-secures-cash-for-free-charity-giving-model-to-compete-with-justgiving/) _by_ Mike Butcher, TechCrunch
 
 </div>
+
+---
+
+<div class='project' markdown="1">
+
+For more information download my [resume](https://docs.google.com/document/d/1tGxajC5z7Zxj-0Q0NNw59ev5kOxUtC1KV7wze4l5KIw/export?format=pdf), connect with me on [LinkedIn](https://www.linkedin.com/in/leesimpson), or [get in touch](mailto:lee@itsleesimpson.com).
+
+You can also follow me on [twitter](http://www.twitter.com/itsleesimpson), [Instagram](http://www.instagram.com/itsleesimpson) and [Medium](https://medium.com/@itsleesimpson).
+
+</div>
+
 
 [← Return home](/)
