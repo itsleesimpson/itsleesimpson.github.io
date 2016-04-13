@@ -87,7 +87,7 @@ Yota approached Ostmodern to create a video on demand application for smart TVs 
 As part of the founding team I lead user experience and user interface design for Givey, a charitable donations platform for businesses and individuals. Over the course of a year I worked on improving user acquisition, engagement and retention.
 
 
-1. [www.givey.com](www.givey.com)
+1. [www.givey.com](http://www.givey.com)
 2. [‘Givey Secures Cash For Free Charity Giving Model’](http://techcrunch.com/2014/07/16/givey-secures-cash-for-free-charity-giving-model-to-compete-with-justgiving/) _by_ Mike Butcher, TechCrunch
 
 </div>
