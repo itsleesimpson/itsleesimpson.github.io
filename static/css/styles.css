@@ -79,6 +79,10 @@ ul {
     font-feature-settings: "onum" 1;
 }
 
+.highlight {
+    border-bottom: 1px dotted var(--bs-link-color);
+}
+
 /* Header Section */
 header {
     width: 100%;
